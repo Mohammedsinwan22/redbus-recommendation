@@ -1,0 +1,26 @@
+Bus_name,Bus_type,Start_time,End_time,Total_duration,Price,Seats_Available,Ratings,Route_link,Route_name
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:00,07:45,11h 45m,INR 729,6 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:30,11:30,13h 00m,INR 598,11 Seats available,4.4,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+Ram Dalal Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),22:00,10:30,12h 30m,INR 700,12 Seats available,4.4,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+AdGULSHAN BUS,A/C Seater / Sleeper (2+2),21:50,09:50,12h 00m,787,18 Seats available,4.0,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+Ram Dalal Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),20:10,10:15,14h 05m,INR 500,7 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+Deltin Travels Pvt Ltd,Bharat Benz A/C Seater /Sleeper (2+1),21:30,09:30,12h 00m,INR 450,21 Seats available,4.8,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+Ashiana Travels(India),A/C Seater / Sleeper (2+2),21:55,10:50,12h 55m,590,43 Seats available,3.3,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+AdShub Yatra Holidays,A/C Sleeper (2+2),22:00,11:00,13h 00m,629,33 Seats available,4.6,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+RK Holiday,A/C Seater / Sleeper (2+2),21:30,10:45,13h 15m,INR 499,37 Seats available,4.1,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+Awadh Travels,A/C Sleeper (2+2),22:55,11:55,13h 00m,673,44 Seats available,3.5,https://www.redbus.in/bus-tickets/delhi-to-jammu,Delhi to Jammu (j and k)
+RSRTC - 202391,Deluxe AC Seater 2+2,21:30,02:30,05h 00m,INR 540,36 Seats available,3.4,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 191024,NON AC Seater / Sleeper 2+1,21:55,03:55,06h 00m,INR 371,31 Seats available,3.7,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 200115,A/C Seater / Sleeper (2+1),22:00,03:00,05h 00m,INR 694,21 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 157466,Express Non AC Seater 2+3,22:10,02:55,04h 45m,INR 301,42 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 201573,Express Non AC Seater 2+3,22:30,04:30,06h 00m,INR 301,42 Seats available,3.3,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 159996,Express Non AC Seater 2+3,22:45,04:45,06h 00m,INR 301,42 Seats available,4.4,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 192474,Volvo A/C Seater (2+2),23:00,04:00,05h 00m,INR 790,28 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 169078,NON AC Seater / Sleeper 2+1,23:08,05:15,06h 07m,INR 376,26 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 195457,Express Non AC Seater 2+3,23:40,05:40,06h 00m,INR 301,42 Seats available,4.3,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+RSRTC - 195619,Deluxe AC Seater 2+2,23:59,06:00,06h 01m,INR 540,28 Seats available,4.7,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+Goldline Super Deluxe,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:59,05:30,05h 31m,INR 350,22 Seats available,4.6,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+Goldline Super Deluxe,A/C Seater / Sleeper (2+1),22:25,05:00,06h 35m,INR 350,14 Seats available,4.6,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+Goldline Super Deluxe,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:25,03:30,06h 05m,INR 550,17 Seats available,4.2,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+AdGoldline Super Deluxe,Bharat Benz A/C Seater /Sleeper (2+1),23:00,04:55,05h 55m,INR 300,27 Seats available,4.6,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
+Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:25,02:15,05h 50m,INR 243,18 Seats available,,https://www.redbus.in/bus-tickets/jaipur-to-delhi,Jaipur (Rajasthan) to Delhi
