@@ -75,9 +75,9 @@ st.markdown(
 st.markdown("<h1 class='centered-title'>TRUSTLINE TRAVEL PARTNER </h1>", unsafe_allow_html=True)
 st.markdown("<h2 class='centered-title'>ESCAPE THE ORDINARY </h2>", unsafe_allow_html=True)
 
-web=option_menu(menu_title="WHAT WOULD YOU LIKE TO KNOW!",
+web=option_menu(menu_title="Ready to Get Started?",
                 options=["ABOUT","FIND YOUR BUS"],
-                icons=["info-circle",":material/directions bus:"],
+                icons=["info-circle",":directions_bus:"],
                 orientation="horizontal")
 if web=="ABOUT":
     
