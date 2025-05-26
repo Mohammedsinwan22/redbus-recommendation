@@ -1,11 +1,12 @@
 # 🚌 RedBus Route Recommendation System
+![App Preview](preview.png)
 
 An intelligent travel assistant that suggests optimal bus routes across Indian states based on real-time data insights. This project combines web scraping, data preprocessing, and machine learning to simplify travel planning within India.
 
 ## 🚀 Features
 
 - 📍 **State-wise Bus Route Data**  
-  Get curated bus route details for states like Kerala, Rajasthan, Goa, and more.
+  Get curated bus route details for states like Kerala, Rajasthan, Goa, and 7 more.
 
 - 🧠 **Smart Recommendations**  
   ML-powered suggestions based on origin-destination and regional data.
@@ -13,9 +14,14 @@ An intelligent travel assistant that suggests optimal bus routes across Indian s
 - 📊 **Interactive Visualizations**  
   Explore patterns and insights through Streamlit-based dashboards.
 
-- 🧹 **Clean, Modular Code**  
-  Built using Python, Pandas, and Scikit-learn in a clean project structure.
+- 🧹 **TEC-TAGS**  
+  Built using Python, Pandas,SQL and Streamlit in a clean project structure.
 
+- 📍**Project Deliverables**
+Source Code: Python scripts for data scraping, SQL database interaction, and Streamlit application.
+Documentation: Detailed documentation explaining the code, data collection, and application usage.
+Database Schema: SQL scripts to create and populate the database.
+Application using Streamlit : Screenshots or links to the Streamlit application showing data filtering/ analysis.
 ---
 
 ## 📂 Project Structure
